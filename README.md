@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your project to help users understand how to use the Oracle-to-PostgreSQL synchronization script.
-
----
 
 # **Oracle to PostgreSQL Data Sync Script**
 
